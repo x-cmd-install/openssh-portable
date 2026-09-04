@@ -7,13 +7,13 @@ about:
   head: 7fe3b24
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:58:29Z
+  collectedAt: 2026-09-04T20:41:52Z
 timeline:
   created: 2014-01-17
   lastCommit: 2026-09-03
   lastRelease: 
 popularity:
-  star: 3986
+  star: 3985
   watcher: 136
   fork: 2159
   release: 0
@@ -88,6 +88,99 @@ total:
   openIssue: 0
   commit: 13867
 ---
+path: /home/runner/.x-repo/github.com/openssh/openssh-portable
+collectedAt: 2026-09-04T20:41:57Z
+loc:
+  C:
+    code: 118677
+    comments: 17732
+    blanks: 15335
+    files: 303
+  CHeader:
+    code: 28184
+    comments: 11281
+    blanks: 3634
+    files: 116
+  Sh:
+    code: 11799
+    comments: 1721
+    blanks: 1952
+    files: 134
+  Autoconf:
+    code: 1569
+    comments: 137
+    blanks: 256
+    files: 8
+  RPMSpecfile:
+    code: 847
+    comments: 38
+    blanks: 180
+    files: 2
+  Json:
+    code: 810
+    comments: 0
+    blanks: 0
+    files: 2
+  Cpp:
+    code: 773
+    comments: 36
+    blanks: 124
+    files: 12
+  Bash:
+    code: 713
+    comments: 164
+    blanks: 93
+    files: 2
+  Makefile:
+    code: 377
+    comments: 45
+    blanks: 131
+    files: 19
+  AWK:
+    code: 349
+    comments: 22
+    blanks: 7
+    files: 1
+  M4:
+    code: 197
+    comments: 30
+    blanks: 5
+    files: 1
+  Bitbake:
+    code: 97
+    comments: 12
+    blanks: 21
+    files: 14
+  Html:
+    code: 90
+    comments: 0
+    blanks: 1
+    files: 1
+  Prolog:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Q:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  CShell:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 62
+    blanks: 32
+    files: 2
+total:
+  code: 165064
+  comments: 31315
+  blanks: 21834
+  files: 622
 ---
 date: "2026-08-24"
 repo:
