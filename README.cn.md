@@ -4,7 +4,7 @@
 
 Portable OpenSSH
 
-![openssh-portable](https://repo.x-cmd.io/openssh-portable.svg)
+![openssh-portable](https://repo.x-cmd.io/openssh-portable.svg?lang=zh)
 
 ## 安装
 
@@ -19,19 +19,19 @@ x install openssh-portable
 
 ## 流行度
 
-- **Star**: 3,999 · **Fork**: 2,162 · **开放 issue**: 0 · **贡献者**: 108
+- **Star**: 3,999 · **Fork**: 2,161 · **开放 issue**: 0 · **贡献者**: 108
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2 · **开放 PR**: 146 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 13867
+- **发布数**: 0 · **已合并 PR**: 2 · **开放 PR**: 147 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 13867
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 20 |
-| 90d | 2026-06-12 | 0 | 0 | 12 | 0 | 0 | 168 |
-| 360d | 2025-09-15 | 0 | 0 | 44 | 0 | 0 | 622 |
+| 30d | 2026-08-11 | 0 | 0 | 5 | 0 | 0 | 20 |
+| 90d | 2026-06-12 | 0 | 0 | 13 | 0 | 0 | 168 |
+| 360d | 2025-09-15 | 0 | 0 | 45 | 0 | 0 | 622 |
 
 ## 代码规模
 
@@ -64,4 +64,4 @@ openssh-portable 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:40:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:46Z._
