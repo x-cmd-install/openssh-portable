@@ -41,11 +41,11 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,000 · **Forks**: 2,164 · **Open issues**: 0 · **Contributors**: 108
+- **Stars**: 4,001 · **Forks**: 2,163 · **Open issues**: 0 · **Contributors**: 108
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 147 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13867
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 146 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13867
 
 ## Recent activity
 
@@ -54,9 +54,9 @@ Lowest-scoring checks:
 | 30d | 2026-08-12 | 0 | 0 | 5 | 0 | 0 | 20 |
 | last60d | 2026-07-13 | 0 | 0 | 8 | 0 | 0 | 72 |
 | 90d | 2026-06-13 | 0 | 0 | 13 | 0 | 0 | 168 |
-| last180d | 2026-03-15 | 0 | 0 | 34 | 0 | 0 | 309 |
-| 360d | 2025-09-16 | 0 | 0 | 45 | 0 | 0 | 622 |
-| last720d | 2024-09-21 | 0 | 0 | 64 | 0 | 0 | 1133 |
+| last180d | 2026-03-15 | 0 | 0 | 33 | 0 | 0 | 309 |
+| 360d | 2025-09-16 | 0 | 0 | 44 | 0 | 0 | 622 |
+| last720d | 2024-09-21 | 0 | 0 | 63 | 0 | 0 | 1133 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for openssh-portable lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:43:19Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:15:54Z._
