@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,000 · **Forks**: 2,163 · **Open issues**: 0 · **Contributors**: 108
+- **Stars**: 4,000 · **Forks**: 2,164 · **Open issues**: 0 · **Contributors**: 108
 
 ## Totals (cumulative)
 
@@ -67,4 +67,4 @@ Install metadata for openssh-portable lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:18:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:43:19Z._
