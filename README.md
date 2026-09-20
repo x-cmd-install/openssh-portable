@@ -4,7 +4,7 @@
 
 Portable OpenSSH
 
-![openssh-portable](https://repo.x-cmd.io/openssh-portable.svg)
+[![x-cmd/install — openssh-portable Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openssh-portable.svg)](https://x-cmd.com/install/openssh-portable)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install openssh-portable
 
 ## Code insight
 
-Total: **167,286** lines of code across **564** files in the top 5 languages.
+Total: **167,288** lines of code across **564** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 121,371 | 18,100 | 15,601 | 304 |
+| C | 121,373 | 18,100 | 15,601 | 304 |
 | CHeader | 28,214 | 11,284 | 3,637 | 116 |
 | Sh | 11,873 | 1,719 | 1,970 | 134 |
 | Autoconf | 1,570 | 137 | 256 | 8 |
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,011 · **Forks**: 2,164 · **Open issues**: 0 · **Contributors**: 108
+- **Stars**: 4,013 · **Forks**: 2,167 · **Open issues**: 0 · **Contributors**: 108
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 145 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13927
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 144 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13930
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 5 | 0 | 0 | 65 |
-| last60d | 2026-07-20 | 0 | 0 | 8 | 0 | 0 | 122 |
-| 90d | 2026-06-20 | 0 | 0 | 11 | 0 | 0 | 214 |
-| last180d | 2026-03-22 | 0 | 0 | 32 | 0 | 0 | 358 |
-| 360d | 2025-09-23 | 0 | 0 | 43 | 0 | 0 | 667 |
-| last720d | 2024-09-28 | 0 | 0 | 61 | 0 | 0 | 1181 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 0 | 65 |
+| last60d | 2026-07-22 | 0 | 0 | 7 | 0 | 0 | 119 |
+| 90d | 2026-06-22 | 0 | 0 | 10 | 0 | 0 | 199 |
+| last180d | 2026-03-24 | 0 | 0 | 30 | 0 | 0 | 347 |
+| 360d | 2025-09-25 | 0 | 0 | 42 | 0 | 0 | 634 |
+| last720d | 2024-09-30 | 0 | 0 | 60 | 0 | 0 | 1184 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for openssh-portable lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:40:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:57:20Z._
