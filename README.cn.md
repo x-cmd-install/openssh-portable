@@ -14,12 +14,12 @@ x install openssh-portable
 
 ## 代码洞察
 
-合计: **167,305** 行代码（覆盖前 5 种语言、共 **564** 个文件）。
+合计: **167,310** 行代码（覆盖前 5 种语言、共 **564** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 121,372 | 18,104 | 15,602 | 304 |
-| CHeader | 28,216 | 11,284 | 3,637 | 116 |
+| C | 121,378 | 18,109 | 15,601 | 304 |
+| CHeader | 28,215 | 11,284 | 3,637 | 116 |
 | Sh | 11,889 | 1,720 | 1,972 | 134 |
 | Autoconf | 1,570 | 137 | 256 | 8 |
 | RPMSpecfile | 847 | 38 | 180 | 2 |
@@ -31,8 +31,8 @@ x install openssh-portable
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -41,22 +41,22 @@ x install openssh-portable
 
 ## 流行度
 
-- **Star**: 4,029 · **Fork**: 2,173 · **开放 issue**: 0 · **贡献者**: 108
+- **Star**: 4,031 · **Fork**: 2,174 · **开放 issue**: 0 · **贡献者**: 108
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2 · **开放 PR**: 147 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 13936
+- **发布数**: 0 · **已合并 PR**: 2 · **开放 PR**: 147 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 13944
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 6 | 0 | 0 | 64 |
-| last60d | 2026-08-01 | 0 | 0 | 9 | 0 | 0 | 104 |
-| 90d | 2026-07-02 | 0 | 0 | 11 | 0 | 0 | 163 |
-| last180d | 2026-04-03 | 0 | 0 | 32 | 0 | 0 | 341 |
-| 360d | 2025-10-05 | 0 | 0 | 45 | 0 | 0 | 619 |
-| last720d | 2024-10-10 | 0 | 0 | 63 | 0 | 0 | 1190 |
+| 30d | 2026-09-01 | 0 | 0 | 6 | 0 | 0 | 72 |
+| last60d | 2026-08-02 | 0 | 0 | 9 | 0 | 0 | 112 |
+| 90d | 2026-07-03 | 0 | 0 | 11 | 0 | 0 | 171 |
+| last180d | 2026-04-04 | 0 | 0 | 32 | 0 | 0 | 349 |
+| 360d | 2025-10-06 | 0 | 0 | 45 | 0 | 0 | 627 |
+| last720d | 2024-10-11 | 0 | 0 | 63 | 0 | 0 | 1198 |
 
 ## 改进这些数据
 
@@ -67,4 +67,4 @@ openssh-portable 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:42:18Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:48:44Z._
