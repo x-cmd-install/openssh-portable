@@ -14,11 +14,11 @@ x install openssh-portable
 
 ## Code insight
 
-Total: **167,319** lines of code across **564** files in the top 5 languages.
+Total: **167,322** lines of code across **564** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 121,387 | 18,111 | 15,601 | 304 |
+| C | 121,390 | 18,111 | 15,601 | 304 |
 | CHeader | 28,215 | 11,284 | 3,637 | 116 |
 | Sh | 11,889 | 1,720 | 1,972 | 134 |
 | Autoconf | 1,570 | 137 | 256 | 8 |
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,032 · **Forks**: 2,174 · **Open issues**: 0 · **Contributors**: 108
+- **Stars**: 4,032 · **Forks**: 2,173 · **Open issues**: 0 · **Contributors**: 108
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 147 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13948
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 147 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13950
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 6 | 0 | 0 | 76 |
-| last60d | 2026-08-03 | 0 | 0 | 9 | 0 | 0 | 116 |
-| 90d | 2026-07-04 | 0 | 0 | 11 | 0 | 0 | 175 |
-| last180d | 2026-04-05 | 0 | 0 | 32 | 0 | 0 | 353 |
-| 360d | 2025-10-07 | 0 | 0 | 45 | 0 | 0 | 631 |
-| last720d | 2024-10-12 | 0 | 0 | 63 | 0 | 0 | 1202 |
+| 30d | 2026-09-03 | 0 | 0 | 6 | 0 | 0 | 78 |
+| last60d | 2026-08-04 | 0 | 0 | 8 | 0 | 0 | 118 |
+| 90d | 2026-07-05 | 0 | 0 | 11 | 0 | 0 | 177 |
+| last180d | 2026-04-06 | 0 | 0 | 32 | 0 | 0 | 355 |
+| 360d | 2025-10-08 | 0 | 0 | 45 | 0 | 0 | 633 |
+| last720d | 2024-10-13 | 0 | 0 | 63 | 0 | 0 | 1204 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for openssh-portable lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:36:53Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:23:16Z._
