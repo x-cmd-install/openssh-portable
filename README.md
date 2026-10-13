@@ -14,12 +14,12 @@ x install openssh-portable
 
 ## Code insight
 
-Total: **169,884** lines of code across **592** files in the top 5 languages.
+Total: **169,864** lines of code across **592** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 122,931 | 18,276 | 15,811 | 310 |
-| CHeader | 28,219 | 11,296 | 3,638 | 116 |
+| C | 122,912 | 18,276 | 15,812 | 310 |
+| CHeader | 28,218 | 11,297 | 3,638 | 116 |
 | Sh | 11,887 | 1,721 | 1,970 | 134 |
 | Cpp | 1,759 | 301 | 271 | 24 |
 | Autoconf | 1,570 | 137 | 256 | 8 |
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,040 · **Forks**: 2,185 · **Open issues**: 0 · **Contributors**: 111
+- **Stars**: 4,042 · **Forks**: 2,187 · **Open issues**: 0 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 133 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13993
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 134 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 13995
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 4 | 0 | 0 | 52 |
-| last60d | 2026-08-13 | 0 | 0 | 7 | 0 | 0 | 120 |
-| 90d | 2026-07-14 | 0 | 0 | 10 | 0 | 0 | 179 |
-| last180d | 2026-04-15 | 0 | 0 | 17 | 0 | 0 | 383 |
-| 360d | 2025-10-17 | 0 | 0 | 31 | 0 | 0 | 635 |
-| last720d | 2024-10-22 | 0 | 0 | 49 | 0 | 0 | 1221 |
+| 30d | 2026-09-13 | 0 | 0 | 5 | 0 | 0 | 54 |
+| last60d | 2026-08-14 | 0 | 0 | 8 | 0 | 0 | 122 |
+| 90d | 2026-07-15 | 0 | 0 | 11 | 0 | 0 | 181 |
+| last180d | 2026-04-16 | 0 | 0 | 18 | 0 | 0 | 385 |
+| 360d | 2025-10-18 | 0 | 0 | 32 | 0 | 0 | 637 |
+| last720d | 2024-10-23 | 0 | 0 | 50 | 0 | 0 | 1219 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for openssh-portable lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:53:01Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:51:53Z._
