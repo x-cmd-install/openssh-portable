@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:40:42Z
+  collectedAt: 2026-10-30T05:39:47Z
 timeline:
   created: 2014-01-17
   lastCommit: 2026-10-29
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 4068
+  star: 4071
   watcher: 137
-  fork: 2202
+  fork: 2204
   release: 0
   contributor: 111
-  pullRequest: 703
+  pullRequest: 704
   issue: 0
 language:
   C: 4870291
@@ -35,63 +35,63 @@ language:
 totalBytes: 6937988
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
-    openPR: 12
+    openPR: 13
     closedIssue: 0
     openIssue: 0
     commit: 56
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 0
-    openPR: 17
+    openPR: 18
     closedIssue: 0
     openIssue: 0
     commit: 138
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 0
-    openPR: 20
+    openPR: 21
     closedIssue: 0
     openIssue: 0
     commit: 186
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 0
-    openPR: 28
+    openPR: 29
     closedIssue: 0
     openIssue: 0
     commit: 389
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 0
-    openPR: 41
+    openPR: 42
     closedIssue: 0
     openIssue: 0
     commit: 648
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 0
     openPR: 57
     closedIssue: 0
     openIssue: 0
-    commit: 1225
+    commit: 1221
 total:
   release: 0
   mergedPR: 2
-  openPR: 144
+  openPR: 145
   closedIssue: 0
   openIssue: 0
   commit: 14019
 ---
 path: /home/runner/.x-repo/github.com/openssh/openssh-portable
-collectedAt: 2026-10-29T05:40:52Z
+collectedAt: 2026-10-30T05:40:00Z
 loc:
   C:
     code: 122953
