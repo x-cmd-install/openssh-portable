@@ -14,13 +14,13 @@ x install openssh-portable
 
 ## Code insight
 
-Total: **169,916** lines of code across **592** files in the top 5 languages.
+Total: **170,736** lines of code across **592** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 122,953 | 18,279 | 15,815 | 310 |
-| CHeader | 28,218 | 11,297 | 3,638 | 116 |
-| Sh | 11,898 | 1,722 | 1,971 | 134 |
+| C | 123,685 | 18,580 | 15,870 | 310 |
+| CHeader | 28,225 | 11,297 | 3,639 | 116 |
+| Sh | 11,979 | 1,729 | 1,977 | 134 |
 | Cpp | 1,759 | 301 | 271 | 24 |
 | Autoconf | 1,570 | 137 | 256 | 8 |
 
@@ -45,18 +45,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 145 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 14019
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 145 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 14107
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 13 | 0 | 0 | 56 |
-| last60d | 2026-08-31 | 0 | 0 | 18 | 0 | 0 | 138 |
-| 90d | 2026-08-01 | 0 | 0 | 21 | 0 | 0 | 186 |
-| last180d | 2026-05-03 | 0 | 0 | 29 | 0 | 0 | 389 |
-| 360d | 2025-11-04 | 0 | 0 | 42 | 0 | 0 | 648 |
-| last720d | 2024-11-09 | 0 | 0 | 57 | 0 | 0 | 1221 |
+| 30d | 2026-10-01 | 0 | 0 | 13 | 0 | 0 | 144 |
+| last60d | 2026-09-01 | 0 | 0 | 18 | 0 | 0 | 226 |
+| 90d | 2026-08-02 | 0 | 0 | 21 | 0 | 0 | 274 |
+| last180d | 2026-05-04 | 0 | 0 | 29 | 0 | 0 | 477 |
+| 360d | 2025-11-05 | 0 | 0 | 42 | 0 | 0 | 736 |
+| last720d | 2024-11-10 | 0 | 0 | 57 | 0 | 0 | 1308 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for openssh-portable lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:40:04Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:31:37Z._
