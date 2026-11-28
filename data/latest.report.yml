@@ -2,15 +2,15 @@ about:
   description: "Portable OpenSSH"
   license: NOASSERTION
   homepage: 
-  head: 8038f61
+  head: 74264d2
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:25:16Z
+  collectedAt: 2026-11-28T07:43:29Z
 timeline:
   created: 2014-01-17
-  lastCommit: 2026-11-26
+  lastCommit: 2026-11-28
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
@@ -19,88 +19,88 @@ popularity:
   watcher: 135
   fork: 2229
   release: 0
-  contributor: 114
-  pullRequest: 720
+  contributor: 115
+  pullRequest: 721
   issue: 0
 language:
-  C: 4932614
+  C: 4942381
   C++: 915273
   Shell: 527168
-  Roff: 350120
-  M4: 172531
+  Roff: 350121
+  M4: 173046
   Makefile: 73989
   HTML: 22582
   Awk: 8740
   KRL: 7037
-totalBytes: 7010054
+totalBytes: 7020337
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
-    openPR: 16
+    openPR: 13
     closedIssue: 0
     openIssue: 0
-    commit: 173
+    commit: 197
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
-    openPR: 28
+    openPR: 26
     closedIssue: 0
     openIssue: 0
-    commit: 239
+    commit: 263
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
-    openPR: 30
+    openPR: 29
     closedIssue: 0
     openIssue: 0
-    commit: 317
+    commit: 341
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
-    openPR: 39
+    openPR: 38
     closedIssue: 0
     openIssue: 0
-    commit: 504
+    commit: 528
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
-    openPR: 50
+    openPR: 49
     closedIssue: 0
     openIssue: 0
-    commit: 782
+    commit: 806
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 0
-    openPR: 65
+    openPR: 64
     closedIssue: 0
     openIssue: 0
-    commit: 1353
+    commit: 1371
 total:
   release: 0
   mergedPR: 2
-  openPR: 155
+  openPR: 154
   closedIssue: 0
   openIssue: 0
-  commit: 14197
+  commit: 14222
 ---
 path: /home/runner/.x-repo/github.com/openssh/openssh-portable
-collectedAt: 2026-11-27T08:25:29Z
+collectedAt: 2026-11-28T07:43:39Z
 loc:
   C:
-    code: 124234
-    comments: 18819
-    blanks: 15900
+    code: 124524
+    comments: 18873
+    blanks: 15920
     files: 310
   CHeader:
-    code: 28230
-    comments: 11299
+    code: 28241
+    comments: 11300
     blanks: 3641
     files: 116
   Sh:
@@ -179,9 +179,9 @@ loc:
     blanks: 32
     files: 2
 total:
-  code: 171945
-  comments: 32700
-  blanks: 22601
+  code: 172246
+  comments: 32755
+  blanks: 22621
   files: 641
 ---
 date: "2026-11-09"
